@@ -4,7 +4,7 @@
 </h1>
 
 <div align="center">
-    <img src="https://img.shields.io/badge/STATUS-Em_Desenvolvimento-red"/>
+    <img src="https://img.shields.io/badge/STATUS-Concluído-blue"/>
     <img src="https://img.shields.io/badge/JAVASCRIPT-gray?logo=javascript"/>
     <img src="https://img.shields.io/badge/HTML-gray?logo=html5"/>
     <img src="https://img.shields.io/badge/CSS-gray?logo=css3&logoColor=blue"/>
