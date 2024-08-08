@@ -1,0 +1,18 @@
+html, body {
+    height: 100vh;
+    width: 100vw;
+    font-family: "Inter", sans-serif;
+}
+
+main {
+    height: 95vh;  
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #CACACA;
+}
+
+footer {
+    height: 5vh;
+    background-color: #EEEEEE;
+}
